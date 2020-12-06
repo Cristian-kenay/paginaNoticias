@@ -219,3 +219,15 @@ hr {
     line-height: 2.8;
 }
 /*fin de los footer links*/
+
+/*footer del copyright*/
+.footer {
+    background: #2f3640;
+    color: #616161;
+    font-size: 12px;
+    padding: 20px 0;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+/*fin del footer del copyright*/
